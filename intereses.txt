@@ -1,0 +1,7 @@
+Frontend (HTML, CSS, JavaScript, frameworks como React, Angular, Vue)
+Backend (Node.js, Django, Flask, Ruby on Rails)
+Desarrollo de API RESTful
+Python para automatización de tareas
+Motores de videojuegos (Unity, Unreal Engine, Godot)
+Programación gráfica (OpenGL, DirectX, WebGL)
+Diseño de mecánicas de juego y simulación física
